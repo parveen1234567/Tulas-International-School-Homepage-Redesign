@@ -41,8 +41,6 @@ The production site is generated in `dist/`. Deploy that directory with Vercel, 
 
 Review all school-specific content and links with TIS. This concept intentionally avoids unverified performance statistics, phone numbers, and admission dates.
 
-## Submission checklist
+## Published link
 
-- Push the project to a public GitHub repository.
-- Deploy the production build and copy the live URL.
-- Submit both URLs using the [TIS assignment form](https://forms.gle/1njGvsG8a2MW8cRR7).
+- https://github.com/parveen1234567/Tulas-International-School-Homepage-Redesign.
