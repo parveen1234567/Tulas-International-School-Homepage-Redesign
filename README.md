@@ -43,4 +43,4 @@ Review all school-specific content and links with TIS. This concept intentionall
 
 ## Published link
 
-- https://github.com/parveen1234567/Tulas-International-School-Homepage-Redesign.
+- [https://github.com/parveen1234567/Tulas-International-School-Homepage-Redesign](https://tulas-international-school-homepage-redesign-71peu785x.vercel.app/).
